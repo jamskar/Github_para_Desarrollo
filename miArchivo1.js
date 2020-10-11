@@ -1,1 +1,1 @@
-alert("Arvhivo primer editado")
+alert("Archivo primer editado")
